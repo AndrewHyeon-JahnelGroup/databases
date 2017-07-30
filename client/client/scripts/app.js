@@ -233,4 +233,4 @@ var app = {
 //     $('.spinner img').fadeOut('fast');
 //     $('form input[type=submit]').attr('disabled', null);
 //   }
-// };
+};

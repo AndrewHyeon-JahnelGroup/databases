@@ -21,7 +21,7 @@ var mysql = require('mysql');
 
 
 var connection = mysql.createConnection({
-  server: 'https://127.0.0.1:3000/classes/messages',
+  server: 'http://127.0.0.1:3000/',
   user: 'root',
   password: 'plantlife',
   database: 'chat'
